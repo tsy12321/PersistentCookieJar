@@ -1,5 +1,15 @@
 PersistentCookieJar for OkHttp 3
 ===============================
+
+Fork代码后上传至JCenter.
+
+```
+compile 'com.tsy:PersistentCookieJar:1.0.0'
+```
+
+原README见下
+---
+
 A persistent CookieJar implementation for OkHttp 3 based on SharedPreferences.
 
 If you're looking for a OkHttp 2/HTTPUrlConnection persistent CookieStore it can be found at [this Gist] [1].
